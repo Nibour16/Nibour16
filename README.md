@@ -1,5 +1,3 @@
-## A junior game developer (but more like intermediate or even higher) who directly learned them starting from beginning of the year 2024, game programming is the main skill
-
 # 🛠️ Preferred Game Engines
 
 - Unity - the current game engine I am playing, and it is pretty stable and easier to making frameworks ☺️
@@ -22,8 +20,10 @@
 
 <details>
 <summary>Expand/collapse the rest About Me</summary>
+
+ - A junior game developer (but more like intermediate or even higher) who directly learned them starting from beginning of the year 2024, game programming is the main skill
  
- - Game Programming Generalist who can make player logic, gameplay mechanics and systems, and also gameplay UI and enemies (AI)
+ - Having experiences to make gameplay programming tasks include player logic, various gameplay mechanics and systems, and also gameplay UI and enemies (AI)
  
  - Having experiences on making development framework that are well organized and modularized, comfortable to maintain and expand, and understandings of SOLID Principles
  
