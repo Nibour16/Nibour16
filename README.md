@@ -1,16 +1,21 @@
-## Hi there 👋
+## A junior game developer (but more like intermediate or even higher) who directly learned them starting from beginning of the year 2024, game programming is the main skill
 
-<!--
-**Nibour16/Nibour16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Preffered Game Engines
 
-Here are some ideas to get you started:
+- Unity - the current game engine I am playing, and it is pretty stable and easier to making frameworks ☺️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Unreal Engine - it is a pretty cool game engine that surprises me by its fantastic game world, Blueprint is my favorite in Unreal Engine 🤩
+
+# Preferred Languages
+
+- C# - I used all of them in Unity, as the most familiar programming language to me 🙂
+
+- English - inconsistent spelling and ESL-style sometimes 😁
+
+- Mandarin Chinese - my first language, but I went from native back to almost like a beginner even though I can still speak them very well 😓
+
+- C++ - I learned it for Unreal Engine, still beginner, using them mostly to support my Unreal Blueprint framework
+ 
+- Unreal Blueprint (wait, is it count?🤔 I'll type there anyway)
+  - The most familiar scripting language I used in Unreal Engine, I've managed them pretty well
+  - I hate unorganized and spaghetti Blueprint 😡 (it's not that serious, but honestly)
