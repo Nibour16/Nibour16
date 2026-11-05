@@ -10,7 +10,7 @@
 
 - English - inconsistent spelling, inaccurate word choices and ESL-style sometimes 😅
 
-- Mandarin Chinese - my first language, but I went from native back to almost like a beginner even though I can still speak them very well 😓
+- Mandarin Chinese - my first language, but I went from native back to almost like junior even though I can still speak them very well 😓
 
 - C++ - I learned it for Unreal Engine, still beginner, using them mostly to support my Unreal Blueprint framework
  
